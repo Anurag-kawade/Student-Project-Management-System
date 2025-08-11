@@ -3,6 +3,15 @@
 A comprehensive web-based platform developed to manage academic projects across all years and degrees. It supports group creation, faculty preference selection, dynamic faculty allocation, real-time chat, and panel evaluation workflows. This system streamlines communication and improves coordination among students, faculty, staff, and administrators.
 
 ---
+## 🏆 Recognition
+
+This project and its implementation are presented in the paper:  
+**"Usability Evaluation of Student Project Management System Implemented at IIITP"**  
+Authors: Amrut Pathane, Anurag Kawade, Omkar Dhumal, Mohd Samar Bin Mahtab, Priya Jadhav, Shrikant Salve  
+
+Accepted at **Workshop INTERACT 2025** (IFIP TC13 WG 1)  
+🔗 [View Accepted Papers List](https://wg1.ifip-tc13.org/activities/)
+---
 
 ## 📋 Table of Contents
 
