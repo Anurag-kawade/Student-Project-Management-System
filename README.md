@@ -5,7 +5,7 @@ A comprehensive web-based platform developed to manage academic projects across 
 ---
 ## 🏆 Recognition
 
-This project and its implementation are presented in the paper:  
+This project and its Heuristic Evaluation are presented in the paper:  
 **"Usability Evaluation of Student Project Management System Implemented at IIITP"**  
 Authors: Amrut Pathane, Anurag Kawade, Omkar Dhumal, Mohd Samar Bin Mahtab, Priya Jadhav, Shrikant Salve  
 
